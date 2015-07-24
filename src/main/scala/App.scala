@@ -1,3 +1,0 @@
-object AppScala extends App {
-
-}
